@@ -6,9 +6,19 @@ The purpose of this analysis is the create a blockchain proof of concept used to
 
 ## In Use
 
+<img width="338" alt="Screen Shot 2022-10-12 at 2 28 03 PM" src="https://user-images.githubusercontent.com/106558893/195435079-ce0ed474-9232-4ef9-9372-f080c7f925b1.png">
 
+This is a screenshot of the streamlit application. It shows that a transaction has been made.
 
+<img width="1196" alt="Screen Shot 2022-10-12 at 2 28 15 PM" src="https://user-images.githubusercontent.com/106558893/195435205-2fcdffd4-fe0e-427f-a0fd-bd02caf0cb6a.png">
 
+This is a screenshot of the transaction on ganache.
+
+<img width="1200" alt="Screen Shot 2022-10-12 at 2 28 30 PM" src="https://user-images.githubusercontent.com/106558893/195435336-fb8b5a88-45fe-433a-a833-b1af9aab431f.png">
+
+This is a screenshot of the senders account showing the updated total amount of ETH. 
+
+There is not a way to view transaction history of the sender and receiver of the trade. I hope that what I have provided is enough as it is everything related to the transactions that I have access to. 
 ---
 ## Technologies
 
